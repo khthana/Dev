@@ -8,3 +8,8 @@ https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA
 
 Gtk Hello World
 https://medium.com/@yothininbanleng/gtk-hello-world-3cc748146fa2
+
+Pyxel is a retro game engine for Python
+https://github.com/kitao/pyxel
+
+
