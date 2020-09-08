@@ -5,3 +5,6 @@ https://www.interaction-design.org/literature/article/10-great-sites-for-ui-desi
 
 Modern x64 Assembly
 https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA
+
+Gtk Hello World
+https://medium.com/@yothininbanleng/gtk-hello-world-3cc748146fa2
