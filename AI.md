@@ -4,6 +4,24 @@ https://phyblas.hinaboshi.com/saraban/kanrianrukhongkhrueang
 https://medium.com/@kittapas39/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3-tensorflow-lite-%E0%B8%A1%E0%B8%B2%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%9A%E0%B8%99-android-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-windows-10-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%81%E0%B8%B2%E0%B8%A3-train-model-%E0%B8%88%E0%B8%99%E0%B8%96%E0%B8%B6%E0%B8%87-9e449647a5ce
 
 
+==========================================================================
+playlist สอน Deep Learning โดย MIT
+ซึ่งในนั้นมี vdo สอนต้ังแต่ปี 2018 - 2020 เลย สอนตั้งแต่พื้นฐาน อธิบาย 
+Networks ต่างๆที่ควรรู้
+.
+🔹 เนื้อหาที่สอนก็มีตั้งแต่ 🔹  
+- Introduction to Deep Learning
+- Recurrent Neural Networks (RNN)
+- Convolutional Neural Networks (CNN)
+- Deep Generative Modeling
+- Deep Reinforcement Learning
+
+Website 👉: http://introtodeeplearning.com/
+Youtube 👉: https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+Github 👉: https://github.com/aamini/introtodeeplearning
+
+=========================================================================================
+
 Image Processing ในกล้อง (คมเดช)
 https://www.facebook.com/comdet/posts/2637477882936416
 
