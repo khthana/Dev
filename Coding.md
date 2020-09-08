@@ -38,3 +38,6 @@ https://www.geeksforgeeks.org/
 
 10. Codeforces
 http://codeforces.com/
+
+Python Programming the Series
+https://www.youtube.com/playlist?list=PLXa5k-zW5T_0HoABfZADoiPbHWuZio_ib
