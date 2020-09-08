@@ -41,3 +41,6 @@ http://codeforces.com/
 
 Python Programming the Series
 https://www.youtube.com/playlist?list=PLXa5k-zW5T_0HoABfZADoiPbHWuZio_ib
+
+6.0001 Introduction to Computer Science and Programming in Python. Fall 2016
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
