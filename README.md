@@ -21,4 +21,11 @@ https://medium.com/@stackpython/%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0
 50 เรื่อง ที่ Developers ควรรู้ 
 https://www.ismtech.net/th/your-career/50-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%97%E0%B8%B5%E0%B9%88-developers-%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89
 
+Cheatsheet วิธีใช้ และเทคนิคใน Pandas (Python) ฉบับสมบูรณ์
+https://blog.datath.com/cheatsheet-pandas/
 
+Develop and sell a Machine Learning app — from start to end tutorial
+https://towardsdatascience.com/develop-and-sell-a-machine-learning-app-from-start-to-end-tutorial-ed5b5a2b6b2b
+
+บทสรุปของ Data Science Essential รุ่นที่ 1
+https://medium.com/botnoi-classroom/%E0%B8%9A%E0%B8%97%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%82%E0%B8%AD%E0%B8%87-data-science-essential-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-1-73b12b60fd51
