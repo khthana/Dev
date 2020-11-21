@@ -28,3 +28,6 @@ https://medium.com/@pasitat/devops-handbooks-9-the-technical-practices-of-contin
 DevOps Handbook#10 : Change & Security Compliance
 https://medium.com/@pasitat/devops-handbook-10-security-change-compliance-5a0fbaee4a19
 
+Kubernetes-The-Hard-Way-CentOS
+https://github.com/rdamrong/Kubernetes-The-Hard-Way-CentOS
+
