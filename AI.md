@@ -119,3 +119,18 @@ https://medium.com/mmp-li/เริ่มเรียน-machine-learning-0-100-
 -----
 https://github.com/adminho/learning-it/
 
+
+สรุปรวมการบรรยายที่เกี่ยวกับ CiRA CORE ครับ
+#CiRACORE_EP1 แนะนำ Deep Learning 
+https://youtu.be/OhRQIksHsWE
+#CiRACORE_EP2 แนะนำและที่มาของ CiRA CORE
+https://youtu.be/ovepXoqdH14
+#CiRACORE_EP3 ประยุกต์ใช้ในงานอุตสาหกรรม
+https://youtu.be/a-Tlg_bw_g4
+#CiRACORE_EP4 ประยุกต์ใช้ในงานสาธารณะสุข ตอน 1
+https://youtu.be/nbRL8YHyTUc
+#CiRACORE_EP5 ประยุกต์ใช้ในงานสาธารณะสุข ตอน 2
+https://youtu.be/RK-MXr1P_x4
+#CiRACORE_EP6 ประยุกต์ใช้ในงานสาธารณะสุข ตอน 3
+https://youtu.be/i9xOPIk1L10
+
